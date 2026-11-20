@@ -1,5 +1,5 @@
 {
   "version": "1.4.0",
   "url_exe": "https://raw.githubusercontent.com/daomduc19971808-cmyk/cherryha-pos/main/CherryHA_POS.zip",
-  "ghi_chu": "Hủy/sửa đơn có PIN quản lý, nhật ký, in 2 tờ hóa đơn, tem cốc lớn hơn, báo cáo món bán chạy"
+  "ghi_chu": "Tem mới không bị cắt, in 2 tờ, hủy/sửa đơn"
 }
